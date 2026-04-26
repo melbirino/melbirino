@@ -15,7 +15,7 @@
 
 ## 🛠️ Мой стек технологий
 
-- **Languages:** HTML,CSS, JavaScript, Python, SQL
+- **Languages:** HTML, CSS, JavaScript, Python, SQL
 - **Frameworks:** Flask
 - **Tools:** Git, Linux, VS Code
 
