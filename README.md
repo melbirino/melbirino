@@ -15,9 +15,9 @@
 
 ## 🛠️ Мой стек технологий
 
-- **Languages:** Python, JavaScript, TypeScript, SQL
-- **Frameworks:** React, Django, FastAPI
-- **Tools:** Git, Docker, Linux, VS Code
+- **Languages:** HTML,CSS, JavaScript, Python, SQL
+- **Frameworks:** Flask
+- **Tools:** Git, Linux, VS Code
 
 ## 📫 Контакты
 
