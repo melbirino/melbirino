@@ -1,4 +1,4 @@
-# Привет! 👋 Я melbirino
+# Привет! 👋 Я Евгений Мельниченко
 
 🚀 Fullstack Developer | 🐍 Python Enthusiast | 🌐 Web Lover
 
