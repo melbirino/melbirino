@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=melbirino&theme=dark&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=melbirino&show_icons=true&theme=dark&hide_border=true&count_private=true" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbirino&layout=compact&theme=dark&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=melbirino&show_icons=true&theme=dark&hide_border=true&count_private=true" width="32%" />
 </p>
 
 ## 🛠️ Мой стек технологий
