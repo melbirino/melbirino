@@ -1,6 +1,6 @@
 # Привет! 👋 Я Евгений Мельниченко
 
-🚀 Fullstack Developer | 🐍 Python Enthusiast | 🌐 Web Lover
+🚀 Fullstack Developer | 🐍 Python Enthusiast | 🌐 Web Lover | ⛓️ Web3 & Crypto Advocate
 
 ## 📊 Моя статистика
 
@@ -15,7 +15,7 @@
 - **Languages:** HTML, CSS, JavaScript, Python, SQL
 - **Frameworks:** Flask
 - **Tools:** Git, Linux, VS Code
-
+- 
 ## 📫 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/melbirino)
