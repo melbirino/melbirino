@@ -7,10 +7,10 @@
 ## 💰 Курсы криптовалют
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?logo=bitcoin&label=BTC&url=https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&query=bitcoin.usd&color=orange&style=for-the-badge&v=1" alt="Bitcoin Price" />
-  <img src="https://img.shields.io/badge/dynamic/json?logo=ethereum&label=ETH&url=https://api.coingecko.com/api/v3/simple/price?ids=ethereum&query=ethereum.usd&color=blue&style=for-the-badge&v=1" alt="Ethereum Price" />
-  <img src="https://img.shields.io/badge/dynamic/json?logo=solana&label=SOL&url=https://api.coingecko.com/api/v3/simple/price?ids=solana&query=solana.usd&color=purple&style=for-the-badge&v=1" alt="Solana Price" />
-  <img src="https://img.shields.io/badge/dynamic/json?logo=ton&label=TON&url=https://api.coingecko.com/api/v3/simple/price?ids=the-open-network&query=the-open-network.usd&color=0098EA&style=for-the-badge&v=1" alt="TON Price" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=bitcoin&label=BTC&url=https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD&api_key=&query=USD&color=orange&style=for-the-badge" alt="Bitcoin" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=ethereum&label=ETH&url=https://min-api.cryptocompare.com/data/price?fsym=ETH&tsyms=USD&api_key=&query=USD&color=blue&style=for-the-badge" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=solana&label=SOL&url=https://min-api.cryptocompare.com/data/price?fsym=SOL&tsyms=USD&api_key=&query=USD&color=purple&style=for-the-badge" alt="Solana" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=ton&label=TON&url=https://min-api.cryptocompare.com/data/price?fsym=TON&tsyms=USD&api_key=&query=USD&color=0098EA&style=for-the-badge" alt="TON" />
 </p>
 
 ---
@@ -18,12 +18,12 @@
 ## 📊 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melbirino&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=3600&v=1" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbirino&layout=compact&theme=dark&hide_border=true&cache_seconds=3600&v=1" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=melbirino&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=3600" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbirino&layout=compact&theme=dark&hide_border=true&cache_seconds=3600" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melbirino&theme=react-dark&hide_border=true&area=true&cache_seconds=3600&v=1" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melbirino&theme=react-dark&hide_border=true&area=true&cache_seconds=3600" alt="Activity Graph" />
 </p>
 
 ## 🛠️ Мой стек технологий
