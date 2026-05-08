@@ -4,29 +4,25 @@
 
 ---
 
-## 💰 Crypto Market (Live Data)
+## 💰 Курсы криптовалют (Live)
 
-> Данные обновляются каждые ~15 минут (ограничение кэша GitHub)
+> *Цены обновляются автоматически (с задержкой кэша GitHub ~15-60 мин)*
 
 <p align="center">
-  <!-- BTC -->
-  <a href="https://www.binance.com/en/price/bitcoin">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=bitcoin&label=BTC&url=https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&query=bitcoin.usd&color=F7931A&style=for-the-badge&cacheSeconds=60" alt="BTC Price" />
+  <a href="https://www.coingecko.com/ru/coins/bitcoin" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=bitcoin&label=BTC&url=https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&query=bitcoin.usd&color=F7931A&style=for-the-badge" alt="Bitcoin Price" />
   </a>
   
-  <!-- ETH -->
-  <a href="https://www.binance.com/en/price/ethereum">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=ethereum&label=ETH&url=https://api.coingecko.com/api/v3/simple/price?ids=ethereum&query=ethereum.usd&color=3C3C3D&style=for-the-badge&cacheSeconds=60" alt="ETH Price" />
+  <a href="https://www.coingecko.com/ru/coins/ethereum" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=ethereum&label=ETH&url=https://api.coingecko.com/api/v3/simple/price?ids=ethereum&query=ethereum.usd&color=3C3C3D&style=for-the-badge" alt="Ethereum Price" />
   </a>
   
-  <!-- SOL -->
-  <a href="https://www.binance.com/en/price/solana">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=solana&label=SOL&url=https://api.coingecko.com/api/v3/simple/price?ids=solana&query=solana.usd&color=9945FF&style=for-the-badge&cacheSeconds=60" alt="SOL Price" />
+  <a href="https://www.coingecko.com/ru/coins/solana" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=solana&label=SOL&url=https://api.coingecko.com/api/v3/simple/price?ids=solana&query=solana.usd&color=9945FF&style=for-the-badge" alt="Solana Price" />
   </a>
   
-  <!-- TON -->
-  <a href="https://www.binance.com/en/price/toncoin">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=ton&label=TON&url=https://api.coingecko.com/api/v3/simple/price?ids=the-open-network&query=the-open-network.usd&color=0098EA&style=for-the-badge&cacheSeconds=60" alt="TON Price" />
+  <a href="https://www.coingecko.com/ru/coins/toncoin" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=ton&label=TON&url=https://api.coingecko.com/api/v3/simple/price?ids=the-open-network&query=the-open-network.usd&color=0088CC&style=for-the-badge" alt="TON Price" />
   </a>
 </p>
 
