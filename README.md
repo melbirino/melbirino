@@ -5,8 +5,6 @@
 ## 📊 Моя статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melbirino&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=3600" width="32%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbirino&layout=compact&theme=dark&hide_border=true&cache_seconds=3600" width="32%" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=melbirino&theme=dark&hide_border=true&cache_seconds=3600" width="32%" alt="Streak Stats" />
 </p>
 
