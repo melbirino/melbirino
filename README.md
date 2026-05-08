@@ -4,37 +4,39 @@
 
 ---
 
-## 💰 Курсы криптовалют
+## 💰 Crypto Market (Live Data)
 
-> Цены обновляются ~раз в час
+> Данные обновляются каждые ~15 минут (ограничение кэша GitHub)
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=BTC&message=64,250%24&color=orange&logo=bitcoin&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?label=ETH&message=3,480%24&color=blue&logo=ethereum&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?label=SOL&message=145%24&color=purple&logo=solana&style=for-the-badge" />
-  <img src="https://img.shields.io/static/v1?label=TON&message=5.2%24&color=0098EA&logo=ton&style=for-the-badge" />
+  <!-- BTC -->
+  <a href="https://www.binance.com/en/price/bitcoin">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=bitcoin&label=BTC&url=https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&query=bitcoin.usd&color=F7931A&style=for-the-badge&cacheSeconds=60" alt="BTC Price" />
+  </a>
+  
+  <!-- ETH -->
+  <a href="https://www.binance.com/en/price/ethereum">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=ethereum&label=ETH&url=https://api.coingecko.com/api/v3/simple/price?ids=ethereum&query=ethereum.usd&color=3C3C3D&style=for-the-badge&cacheSeconds=60" alt="ETH Price" />
+  </a>
+  
+  <!-- SOL -->
+  <a href="https://www.binance.com/en/price/solana">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=solana&label=SOL&url=https://api.coingecko.com/api/v3/simple/price?ids=solana&query=solana.usd&color=9945FF&style=for-the-badge&cacheSeconds=60" alt="SOL Price" />
+  </a>
+  
+  <!-- TON -->
+  <a href="https://www.binance.com/en/price/toncoin">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=ton&label=TON&url=https://api.coingecko.com/api/v3/simple/price?ids=the-open-network&query=the-open-network.usd&color=0098EA&style=for-the-badge&cacheSeconds=60" alt="TON Price" />
+  </a>
 </p>
-
-> ⚠️ Это статические бейджи. Чтобы видеть реальные цены, используй [CoinGecko](https://www.coingecko.com/) или биржу.
 
 ---
-
-## 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melbirino&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&v=3" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbirino&layout=compact&theme=dark&hide_border=true&cache_seconds=1800&v=3" width="48%" alt="Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melbirino&theme=react-dark&hide_border=true&area=true&cache_seconds=1800&v=3" alt="Graph" />
-</p>
 
 ## 🛠️ Мой стек технологий
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,kotlin,flask,git,linux,vscode,docker,postgres&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,kotlin,flask,git,linux,vscode,docker,postgres,nodejs,react&theme=dark&perline=14" />
   </a>
 </p>
 
