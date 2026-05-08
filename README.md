@@ -2,17 +2,37 @@
 
 🚀 Fullstack Developer | 🐍 Python Enthusiast | 🌐 Web Lover | ⛓️ Web3
 
-## 📊 Моя статистика
+---
+
+## 💰 Курсы криптовалют
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=melbirino&theme=dark&hide_border=true&cache_seconds=3600" width="32%" alt="Streak Stats" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=bitcoin&label=BTC&url=https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&query=bitcoin.usd&color=orange&style=for-the-badge" alt="Bitcoin Price" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=ethereum&label=ETH&url=https://api.coingecko.com/api/v3/simple/price?ids=ethereum&query=ethereum.usd&color=blue&style=for-the-badge" alt="Ethereum Price" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=solana&label=SOL&url=https://api.coingecko.com/api/v3/simple/price?ids=solana&query=solana.usd&color=purple&style=for-the-badge" alt="Solana Price" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=ton&label=TON&url=https://api.coingecko.com/api/v3/simple/price?ids=the-open-network&query=the-open-network.usd&color=0098EA&style=for-the-badge" alt="TON Price" />
+</p>
+
+---
+
+## 📊 Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melbirino&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=3600" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbirino&layout=compact&theme=dark&hide_border=true&cache_seconds=3600" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melbirino&theme=react-dark&hide_border=true&area=true&cache_seconds=3600" alt="Activity Graph" />
 </p>
 
 ## 🛠️ Мой стек технологий
 
-- **Languages:** HTML, CSS, JavaScript, Python, SQL, Kotlin
-- **Frameworks:** Flask
-- **Tools:** Git, Linux, VS Code
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,sql,kotlin,flask,git,linux,vscode,docker,postgres&theme=dark&perline=14" />
+  </a>
+</p>
 
 ## 📫 Контакты
 
